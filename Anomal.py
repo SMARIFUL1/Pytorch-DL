@@ -1,4 +1,4 @@
-#this one running now and need to explore this more
+#this one running now and need to explore this more like segmentation
 
 from anomalib import TaskType
 from anomalib.models import EfficientAd
