@@ -1,4 +1,4 @@
-#for directory anomaly testing
+#for directory bunch of images anomaly testing
 from anomalib.deploy import OpenVINOInferencer
 import cv2
 import os
