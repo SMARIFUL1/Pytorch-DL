@@ -1,4 +1,3 @@
-#for single image testing
 from anomalib.deploy import OpenVINOInferencer
 import cv2
 
